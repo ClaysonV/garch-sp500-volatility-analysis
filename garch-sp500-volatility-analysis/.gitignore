@@ -1,0 +1,11 @@
+Python
+pycache/ *.pyc
+
+Virtual Environment
+venv/ .env *.env
+
+OS-specific
+.DS_Store Thumbs.db
+
+IDE
+.vscode/ .idea/
